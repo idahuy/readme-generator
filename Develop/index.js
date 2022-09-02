@@ -54,7 +54,7 @@ const questions = [
   {
       type: "input",
       name: "video",
-      message: "Does this project have a video walkthrough?"
+      message: "Does this project have a video walkthrough? (Please provide link)"
   }
 ];
 
