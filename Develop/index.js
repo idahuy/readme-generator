@@ -50,6 +50,11 @@ const questions = [
       type: "input",
       name: "contributing",
       message: "What does the user need to know about contributing to the repo?",
+  },
+  {
+      type: "input",
+      name: "video",
+      message: "Does this project have a video walkthrough?"
   }
 ];
 
