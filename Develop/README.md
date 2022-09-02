@@ -1,6 +1,6 @@
 # ReadMe Generator
     
-      ## Description A simple tool that will help you create a README quickly for any of your projects
+      ## Description A simple and easy to use tool to generate README files
       ## Table of Contents 
         * [Installation](#installation)
         * [Usage](#usage) 
@@ -11,16 +11,16 @@
         To install necessary dependencies, run the following command:
         ``` npm i ```
       ## Usage 
-        Easy to use
+        It is a project
         
 
       ## Contributing
-        Any contributions are welcome
+        All contributions to make this better is welcome
       ## Tests
         To run tests, run the following command:
         ```npm test```
       ## Video tutorial
-        asd
+        
       ## Questions
       If you have any questions about the repo, open an issue or contact me directly at huygnguyen@outlook.com. You can find more of my work at [idahuy](https://github.com/idahuy/).
       
