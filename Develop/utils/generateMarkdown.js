@@ -27,7 +27,7 @@ function renderLicenseSection(license) {
 function renderVideoLink(video) {
   if (video !== "None") {
     return (`## Video
-              Link to video tutorial of the project ${video}`)
+  [Link to video](${video})`)
   }
     return ''
 }
